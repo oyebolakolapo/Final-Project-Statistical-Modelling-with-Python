@@ -1,17 +1,26 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+1.API connection and data extraction/cleaning in Python
+-Citybikes
+-Foursquare
+2.Yelp
+3.Joining datasets in Python
+SQL in Python
+Model building
 
 ## Process
-### (your step 1)
-### (your step 2)
+### Connected to Citybikes, Foursquare and Yelp APIs (selected city was Barcelona)
+### Joined Foursquare and Yelp datasets
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+1. Similar number of bike stations were identified with Foursquare and Yelp APIs\
+2. Points of interest correlated with the number of available bikes at each station in Barcelona
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Ran out of Yelp API key
 
 ## Future Goals
-(what would you do if you had more time?)
+-Spend more time on transforming datasets 
+-Attempt different data visualization methods
+-Use this modeling approach for my current dataset
