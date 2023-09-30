@@ -12,7 +12,7 @@ Model building
 ## Process
 1. Connected to Citybikes, Foursquare and Yelp APIs (selected city was Barcelona)
 2. Joined Foursquare and Yelp datasets
-3. Modelled the relationship between number of bikes at each bike station in Barcelona with points of interest such as distance to bars or food joints, popularity and rating.
+3. Modelled the relationship between number of bikes at each bike station in Barcelona with points of interest such as distance to bars or food joints, popularity and rating. Also checked and removed outliers using the IQR approach.
 
 ## Results
 1. Similar number of bike stations were identified with Foursquare and Yelp APIs\
