@@ -19,7 +19,7 @@ Model building
 2. Overall, the model suggests that the characteristics of the points of interest(e.g.popularity and rating of bars and restaurants) do not have a strong correlation with the estimated number of bikes available at a given bike station. However, it does appear that at bike stations within short average distances from highly rated and popular bars/restaurants, more bikes are available at the station. On the other hand, with lower rated bars/restaurants around, fewer bikes are available at the bike station.
 
 ## Challenges 
-Ran out of Yelp API key
+Ran out of oth Foursquare and bYelp API keys
 
 ## Future Goals
 -Spend more time on transforming datasets 
